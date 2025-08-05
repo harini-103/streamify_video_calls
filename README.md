@@ -1,4 +1,3 @@
-
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b866e0c6-982c-4021-9cdf-517678b58d04" />
 
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
